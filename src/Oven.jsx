@@ -1,3 +1,9 @@
+const Oven= () => {
+  return (
 <>
-<h3>Oven</h3>
+<div>Oven</div>
 </>
+  )
+}
+
+export default Oven
